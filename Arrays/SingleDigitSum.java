@@ -1,6 +1,6 @@
 class SingleDigitSum{
     public static void main(String[] args) {
-        long n=22222;
+        long n=999999999998l;
         System.out.println(sum(n));
     }
     public static long sum(long n) {
