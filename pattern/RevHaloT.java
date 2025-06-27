@@ -8,7 +8,7 @@ public class RevHaloT {
                 System.out.print(" ");
             }
             for(int str=1;str<=st;str++){
-                if (str == 1 || str == st || i == n || i==1)                
+                if (str == 1 || str == st || i==1)                
              System.out.print("*");
              else System.out.print(" ");
             }
