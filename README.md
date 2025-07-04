@@ -17,76 +17,76 @@ Welcome to my learning journey at **JSpiders**, where I’m mastering **Java Ful
 ---
 
 ### 🔍 Part 2 – OOP & Core Java
-- ✅ Object & Class
-- ✅ Memory Allocation
-- ✅ Constructors
-- ✅ Blocks
-- ✅ OOP Concepts:
-  - Inheritance
-  - Abstraction
-  - Encapsulation
+- ✅ Object & Class  
+- ✅ Memory Allocation  
+- ✅ Constructors  
+- ✅ Blocks  
+- ✅ OOP Concepts:  
+  - Inheritance  
+  - Abstraction  
+  - Encapsulation  
   - Polymorphism
 
 ---
 
 ### 🧠 Programming Practice
-- ✅ Arrays & 2D Arrays
-- ✅ Strings
-- ✅ Recursion
+- ✅ Arrays & 2D Arrays  
+- ✅ Strings  
+- ✅ Recursion  
 - ⏳ DSA (in progress)
 
 ---
 
 ### ⚙️ Part 3 – Advanced Java
-- ✅ Exception Handling
-- ✅ Multithreading
-- ✅ File Handling
-- ✅ Collection Framework
-- ✅ Map Framework
+- ✅ Exception Handling  
+- ✅ Multithreading  
+- ✅ File Handling  
+- ✅ Collection Framework  
+- ✅ Map Framework  
 - ✅ Java 8 Features
 
 ---
 
 ### 🛠️ Full Stack Development (Coming Soon)
-- 🔜 HTML, CSS, JavaScript
-- 🔜 JSP & Servlets
-- 🔜 JDBC & MySQL
-- 🔜 Spring Core & Spring Boot
-- 🔜 REST API
-- 🔜 Hibernate
+- 🔜 HTML, CSS, JavaScript  
+- 🔜 JSP & Servlets  
+- 🔜 JDBC & MySQL  
+- 🔜 Spring Core & Spring Boot  
+- 🔜 REST API  
+- 🔜 Hibernate  
 - 🔜 React.js
 
 ---
 
 ### 🚧 DevOps Tools (Coming Soon)
-- 🔜 Git & GitHub
-- 🔜 Maven
-- 🔜 Docker
-- 🔜 Jenkins
+- 🔜 Git & GitHub  
+- 🔜 Maven  
+- 🔜 Docker  
+- 🔜 Jenkins  
 - 🔜 CI/CD Concepts
 
 ---
 
 ## 📌 Projects & Practice
 Each folder in this repo represents:
-- Practice Assignments
-- Mini Projects
-- Lab Exercises
+- Practice Assignments  
+- Mini Projects  
+- Lab Exercises  
 - Interview Questions
 
 ---
 
 ## 🎯 Goals
-- ✅ Build a strong Java backend foundation
-- ✅ Gain full-stack capabilities
-- ✅ Learn key DevOps tools for deployment & automation
+- ✅ Build a strong Java backend foundation  
+- ✅ Gain full-stack capabilities  
+- ✅ Learn key DevOps tools for deployment & automation  
 - 🚀 Crack job interviews for Full Stack/DevOps roles
 
 ---
 
 ## 📞 Connect with Me
 - 🌐 [LinkedIn – Saurav Mehta](http://www.linkedin.com/in/saurav-mehta-ldin)
-- 📧 Email: sauravmehta786@gmail.com
+- 📧 [Email Me](mailto:sauravmehta786@gmail.com)
 
 ---
 
