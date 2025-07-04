@@ -4,6 +4,7 @@ public class Mobile {
     Mobile(String name, String brand){
         this.name=name;
         this.brand=brand;
+        System.out.println("hiiiiiiiiiii"+"\t"+name);
     }
     public void display(){
         System.out.print("Mobile name :"+name);

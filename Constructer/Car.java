@@ -8,7 +8,7 @@ public class Car {
     k=7;//wrong
     
     public static void main(String[] args) {
-        // Car b=new Car();
+        Car b=new Car();
         System.out.println(i);
     }
     
