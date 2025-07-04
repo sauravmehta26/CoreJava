@@ -85,8 +85,8 @@ Each folder in this repo represents:
 ---
 
 ## 📞 Connect with Me
-- 🌐 [LinkedIn]([https://linkedin.com/in/your-profile](http://www.linkedin.com/in/saurav-mehta-ldin))
-- 💬 Reach out for collaboration, guidance, or mock interviews!
+- 🌐 [LinkedIn – Saurav Mehta](http://www.linkedin.com/in/saurav-mehta-ldin)
+- 📧 Email: sauravmehta786@gmail.com
 
 ---
 
