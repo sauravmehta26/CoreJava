@@ -1,1 +1,1 @@
-hollowDimond
+|| j!=n
