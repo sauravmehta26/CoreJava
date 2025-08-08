@@ -8,7 +8,7 @@ public class Alternate_Prime {
     int e=sc.nextInt();
     int count =0;
     //if(int i<=1)continue;
-    for(int i=e;i>=s;i--){
+    for(int i=s;i<=e;i++){
         if(i<=1)continue;
         boolean flag=true;
         for(int j=2;j<=i/2;j++){
@@ -19,7 +19,7 @@ public class Alternate_Prime {
     }
         if(flag){
             count++;
-            if(count%2!=0)
+            if(count%2 != 0)
             System.out.println(i);
         }
 

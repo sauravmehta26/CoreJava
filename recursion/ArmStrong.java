@@ -13,8 +13,8 @@ public class ArmStrong {
     }
     public static int len(int n,int len){
        if(n==0) return len;
-       return 1+len(n/10,len--);
-    //           return len(n/10,len+1); CTS
+    //    return 1+len(n/10,len--);
+              return len(n/10,len+1); 
 
         }
    

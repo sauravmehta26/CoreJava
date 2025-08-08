@@ -18,8 +18,8 @@ public class PrimePalindrome {
     }
     public static boolean isPalindrome(int n,int rev,int o) {
         if(n==0) return rev==o;
-        rev = (rev*10)+(n%10);
-        return isPalindrome(n/10,rev,o);
+        // rev = (rev*10)+(n%10);
+        return isPalindrome(n/10,(rev*10)+(n%10),o);
     }
     public static boolean isPrime(int n,int half){
         if(half==1) return true;

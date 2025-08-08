@@ -9,7 +9,7 @@ public class HaloDimondBetter {
             }
             for (int j = 1; j <= str; j++) {
                     System.out.print(" ");  // For the middle line, print stars instead of spaces
-                
+       
             }
             for(int j = 1; j<=sp+1;j++){
                 System.out.print("*");

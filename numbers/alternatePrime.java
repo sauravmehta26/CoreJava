@@ -7,18 +7,16 @@ public class alternatePrime {
         int e=sc.nextInt();
         int count=0;
         for(int i=s;i<=e;i++){
-            if(isprime(i)){
+            if(isprime(i)){                
+                count++;
                 if(count%2!=0){
-            System.out.print( i+"\t");
-
+                System.out.print( i+"\t");
                 }
-                        count++;
-
             }
         }
-
     }
     public static boolean isprime(int n){
+            if(n<=1) return false;
             for(int j=2;j<=n/2;j++){
                 if(n%j==0) return false;
             }

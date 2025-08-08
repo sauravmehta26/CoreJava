@@ -1,13 +1,13 @@
 public class ToDec {
     public static void main(String[] args) {
-        int bin=1011;
+        int n=1011;
         int dec=0;
         int p=1;
-        while(bin>0){
-            int bit=bin%10;
-            dec+=p*bit;
+        while(n>0){
+            int r=n%10;
+            dec+=p*r;
             p*=2;
-            bin=bin/10;
+            n=n/10;
         }
         System.out.println(dec);
     }
