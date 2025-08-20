@@ -1,1 +1,1 @@
-n==0||
+System.out.print(i+"\t");

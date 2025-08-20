@@ -3,11 +3,14 @@ public class InvalidSpace{
     String str="  hi   i am  awesome saurav    ";// =="hi i am awesome saurav"
     String s=str.trim();
     // System.out.print(s);
-    String ans="";
+    StringBuilder ans = new StringBuilder();
+    // String ans="";
     for(int i=0;i<s.length();i++){
         if(s.charAt(i)==' ' && s.charAt(i+1)==' ')continue;
-        ans+=s.charAt(i);  
+        ans.append(s.charAt(i));
+        // ans+=s.charAt(i);  
     }
-    System.out.print(ans);
+    System.out.print(ans.toString());
+    // System.out.print(ans);
 }
 }
